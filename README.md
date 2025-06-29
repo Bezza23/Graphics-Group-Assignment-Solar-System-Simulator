@@ -8,6 +8,6 @@ This project presents an interactive, real-time 3D Solar System Simulator, metic
 
 #Documentation : https://drive.google.com/file/d/1Nbr5oE4upMjlgTTb-e60nlCsdZgUCuJY/view?usp=sharing
 
-#Power Point:
+#PowerPoint: https://drive.google.com/file/d/1aOyFoSUCK3MCxbt_8wF58QkTEYmKVULQ/view?usp=sharing
 
-#Peer Evaluation: 
+#Peer Evaluation: https://drive.google.com/file/d/1yfxqbVF5Z7EHZN_RspdsaWHSzo6BIUz4/view?usp=sharing

@@ -4,7 +4,7 @@ This project presents an interactive, real-time 3D Solar System Simulator, metic
 
 ## 🚀 Live Demo
 
-#Experience the simulator live: 
+#Experience the simulator live: https://bezza23.github.io/Graphics-Group-Assignment-Solar-System-Simulator/
 
 #Documentation : https://drive.google.com/file/d/1Nbr5oE4upMjlgTTb-e60nlCsdZgUCuJY/view?usp=sharing
 

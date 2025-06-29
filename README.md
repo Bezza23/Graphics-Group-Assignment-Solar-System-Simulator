@@ -4,7 +4,7 @@ This project presents an interactive, real-time 3D Solar System Simulator, metic
 
 ## 🚀 Live Demo
 
-#Experience the simulator live: https://bezza23.github.io/Insert-link/
+#Explanation of code and Demo: https://drive.google.com/file/d/1v1QLbgI7NdswKs3FZUrOZbIbACOazObG/view?usp=sharing 
 
 #Documentation : https://drive.google.com/file/d/1Nbr5oE4upMjlgTTb-e60nlCsdZgUCuJY/view?usp=sharing
 
